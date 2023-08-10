@@ -8,3 +8,10 @@ This is the **Cross Entropy Architecture**.The **Soft max layer** is applied in 
 ![CORAL](https://github.com/Chirag-Sai-Panuganti/Age-and-Gender-Detection-Cross-Entropy-vs-Ordinal-vs-CORAL/blob/main/Architectures/CORAL.JPG)
 
 This is **Consistent Ranked Logits(CORAL) Architecture**.The **n-1 indvidual classifiers** are applied in the final layer.The Optimizer used was **ADAM** and the loss function is **Weighted Cross Entropy Loss Function**.The **learning rate is 0.0005**. The **Accuracy of Gender** is **89.20%(UTKFace) and 99.38%(MORPH-2)** and **Mean Absolute Error for Age** is **5.58(UTKFace) and 2.57(MORPH-2)**.
+
+The **Results** are:-
+
+![Results](https://github.com/Chirag-Sai-Panuganti/Age-and-Gender-Detection-Cross-Entropy-vs-Ordinal-vs-CORAL/blob/main/Architectures/Results.jpeg)
+
+**Conclusion:**
+We have observed that **"CORAL outperformed both Ordinal and Cross Entropy approaches for Age and Gender Detection"**.
