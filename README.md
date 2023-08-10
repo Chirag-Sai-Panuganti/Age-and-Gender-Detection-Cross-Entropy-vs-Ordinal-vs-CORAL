@@ -13,5 +13,7 @@ The **Results** are:-
 
 ![Results](https://github.com/Chirag-Sai-Panuganti/Age-and-Gender-Detection-Cross-Entropy-vs-Ordinal-vs-CORAL/blob/main/Architectures/Results.jpeg)
 
+**MAE**: Mean Absolute Error and **RMSE**: Root Mean Squared Error.
+
 **Conclusion:**
 We have observed that **"CORAL outperformed both Ordinal and Cross Entropy approaches for Age and Gender Detection"**.
