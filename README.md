@@ -1,4 +1,4 @@
-# Age-and-Gender-Detection-Cross-Entropy-vs-Ordinal-vs-CORAL
+# Age and Gender Detection Cross Entropy vs Ordinal vs CORAL
 This project is performed using **Pytorch and ResNet-34** is used as backbone. The Datasets used were **UTKFace and MORPH-2**. The face images were **cropped and preprocessed**. It is split into **Train-Validation-Test sets(80-10-10)**. The Images are labeled in .csv files. The **Batch size** used is **256**.
 
 ![Cross Entropy](https://github.com/Chirag-Sai-Panuganti/Age-and-Gender-Detection-Cross-Entropy-vs-Ordinal-vs-CORAL/blob/main/Architectures/Cross%20Entropy.JPG)
